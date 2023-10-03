@@ -47,5 +47,3 @@ Iniciei este projeto com o objetivo de aprender a criar uma loja virtual usando 
 Este projeto é de código aberto e foi criado para fins de aprendizado. O tempo total dedicado à sua realização foi de três semanas. O site de joias foi inspirado em outro site chamado "Amorel Joias".
 
 ---
-
-Este README fornece uma visão geral do projeto de E-commerce, incluindo informações sobre o autor, o objetivo do projeto, os principais plugins utilizados e observações adicionais. Certifique-se de incluir essas informações no seu repositório do GitHub para que outros desenvolvedores possam entender melhor o projeto.
